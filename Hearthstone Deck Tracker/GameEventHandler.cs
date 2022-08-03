@@ -1042,6 +1042,7 @@ namespace Hearthstone_Deck_Tracker
 		}
 
 		private async void HandleBattlegroundsStart()
+			//TODO - look here
 		{
 			if(Config.Instance.ShowBattlegroundsToast)
 			{
